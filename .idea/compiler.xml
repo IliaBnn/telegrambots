@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="firstbot" target="1.7" />
+      <module name="firstbot" target="14" />
       <module name="telegrambots" target="14" />
     </bytecodeTargetLevel>
   </component>
